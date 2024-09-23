@@ -1,0 +1,6 @@
+# Git Ignore
+.vs/
+.vscode/
+bin/
+obj/
+*.user
